@@ -1,0 +1,11 @@
+*.mp4
+*.onnx
+*.pt
+*.db
+
+.vs/
+x64/
+Debug/
+Release/
+
+debug_output/
