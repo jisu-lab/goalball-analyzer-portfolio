@@ -107,3 +107,23 @@ Vision 모듈은 UI 코드에 의존하지 않고
 - [ ] Target Zone prediction
 - [ ] Goal / Block / Out classification
 - [ ] 7 × 7 throw statistics
+
+---
+
+## Screenshots
+
+### Application
+
+Main video-analysis interface.
+
+![Application](docs/application.png)
+
+### Court Calibration
+
+Manual court calibration using reference points and homography.
+
+![Court Calibration](docs/calibration.png)
+
+### Player Detection
+
+YOLO-based player detection will be added after validation on match footage.
